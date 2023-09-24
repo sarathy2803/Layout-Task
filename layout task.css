@@ -1,0 +1,26 @@
+.Imagee{
+    height: 380px;
+    width: 450px;
+}
+.main{
+    background-color: whitesmoke;
+}
+.icon{
+    text-align: center;
+}
+.Thi-img{
+    height: 48vh;
+}
+.Blur{
+    text-align: center;
+}
+.Blurr{
+    text-align: end;
+}
+.Last-Img{
+    height: 360px;
+    width: 300px;
+}
+.bodyColor{
+    background-image: linear-gradient(to right,rgb(79, 123, 136),white);
+}
